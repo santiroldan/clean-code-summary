@@ -1,4 +1,4 @@
-# 📗 Resumen del libro *Clean Code* (Robert C. Martin) — con ejemplos en TypeScript
+# 📗 Resumen del libro *Clean Code* - Robert C. Martin
 
 Este resumen es una referencia exhaustiva de prácticas, principios, "code smells" y refactorizaciones, con ejemplos prácticos en TypeScript y recomendaciones para aplicar día a día.  
 
