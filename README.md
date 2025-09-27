@@ -6,7 +6,7 @@ Este resumen es una referencia exhaustiva de prácticas, principios, "code smell
 
 ## 📋 Tabla de contenidos
 1. [¿Qué es Clean Code?](#-1-qué-es-clean-code)
-2. [Regla del Boy Scout](#-2-regla-del-boy-scout)
+2. [Regla del Boy Scout](#%EF%B8%8F-2-regla-del-boy-scout)
 3. [Nombres: la base del código legible](#-3-nombres-la-base-del-código-legible)
 4. [Funciones: diseño y patrones](#-4-funciones-diseño-y-patrones)
 5. [Parámetros y tipos retornados](#-5-parámetros-y-tipos-retornados)
